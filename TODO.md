@@ -4,17 +4,14 @@
   
   - [x] Sub task 1
   - [ ] Sub task 2
-  - [ ] Sub task 3
-- [ ] Buy milk
-
-### In progress
 - [ ] Syntax highlighting in code fences
   
   ```php
-  <?php
-  
-  class Foo {}
+  <?php echo 'Hello, World!';
   ```
+- [ ] Buy milk
+
+### In progress
 - [ ] Do something!
 - [ ] Run?
 
