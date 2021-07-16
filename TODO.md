@@ -1,15 +1,13 @@
 ### To do
 - [ ] You can drag me
+- [ ] **You can use Markdown**
+  
+  - [x] Sub task 1
+  - [ ] Sub task 2
+  - [ ] Sub task 3
 - [ ] Buy milk
 
 ### In progress
-- [ ] Do something!
-- [ ] Run?
-- [ ] **You can use Markdown**
-  
-  - [ ] Sub task 1
-  - [ ] Sub task 2
-  - [ ] Sub task 3
 - [ ] Syntax highlighting in code fences
   
   ```php
@@ -17,6 +15,8 @@
   
   class Foo {}
   ```
+- [ ] Do something!
+- [ ] Run?
 
 ### Done
 - [x] All right
