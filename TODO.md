@@ -1,19 +1,21 @@
 ### To do
-- [ ] You can drag me too
-- [ ] Buy Milk
+- [ ] You can drag me
+- [ ] Buy milk
 
 ### In progress
-- [ ] Do Something!
+- [ ] Do something!
 - [ ] Run?
-- [ ] - [x] Sub task 1
+- [ ] **You can use Markdown**
+  
+  - [ ] Sub task 1
   - [ ] Sub task 2
   - [ ] Sub task 3
-- [ ] ```php
+- [ ] Syntax highlighting in code fences
+  
+  ```php
   <?php
   
-  class Hoge
-  {
-  }
+  class Foo {}
   ```
 
 ### Done
