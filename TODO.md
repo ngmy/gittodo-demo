@@ -1,7 +1,6 @@
 ### To do
 - [ ] You can drag me
 - [ ] **You can use Markdown**
-  
   - [x] Sub task 1
   - [ ] Sub task 2
 - [ ] Syntax highlighting in code fences
@@ -18,3 +17,7 @@
 ### Done
 - [x] All right
 - [x] Ok!
+
+### Archive
+- [x] Archived!
+- [ ] Didn't do this
